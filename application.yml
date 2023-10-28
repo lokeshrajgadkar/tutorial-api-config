@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: Tutorial-Api-Config-Server-Defualt
 eureka:
   instance:
     prefer-ip-address: true
