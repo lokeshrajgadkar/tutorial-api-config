@@ -4,4 +4,4 @@ eureka:
     client:
       fetch-registry: true
       service-url:
-        defaultZone: https://tutorial-api-service-registory.onrender.com/eureka
+        defaultZone: https://10.223.163.24/eureka
